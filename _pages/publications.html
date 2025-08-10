@@ -5,32 +5,62 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<div class="container">
+  <!-- First Publication (Video) -->
+  <div class="d-flex mb-4">
+    <div style="flex: 0 0 300px; margin-right: 20px;">
+      <img src="/images/epoch_100a_animation.gif" 
+        width="300" height="200"
+        alt="MeMDLM: De Novo Membrane Protein Design with Property-Guided Discrete Diffusion"
+        loading="lazy">
+    </div>
+    <div>
+      <h3 class="mt-0">
+        <strong>MeMDLM: De Novo Membrane Protein Design with Property-Guided Discrete Diffusion</strong>
+        <span>[<a href="https://openreview.net/pdf?id=ZnEx3GbU9C" target="_blank">PDF</a>]</span>
+        <span>[<a href="https://recorder-v3.slideslive.com/#/share?share=100609&s=3fa93544-07ca-4664-8e64-7ec7336c20c8">Slides</a>]</span>
+      </h3>
+      <p style="line-height:1.6; font-size: 18px;">
+        <strong>Shrey Goel</strong>, Vishrut Thoutam, Edgar Mariano Marroquin, Aaron Gokaslan, Arash Firouzbakht, Sophia Vincoff, Volodymyr Kuleshov, Huong T. Kratochvil, Pranam Chatterjee<br>
+        <em>ICLR GEM</em> and </em>LMRL 2025</em>
+      </p>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Second Publication -->
+  <div class="d-flex mb-4">
+    <div style="flex: 0 0 300px; margin-right: 20px;">
+      <img src="/images/TGR.jpg" alt="Temporal Graph Rewiring with Expander Graphs" class="img-fluid" style="width: 300px; height: 200px; object-fit: cover; display: block;">
+    </div>
+    <div>
+      <h3 class="mt-0">
+        <strong>Temporal Graph Rewiring with Expander Graphs</strong>
+        <span>[<a href="https://arxiv.org/abs/2406.02362" target="_blank">PDF</a>]</span>
+      </h3>
+      <p style="line-height:1.6; font-size: 18px;">
+        <strong>Katarina Petrović</strong>, A. Huang, F. Poursafaei, P. Veličković<br>
+        <em>ICML GRaM 2024</em>
+      </p>
+    </div>
+  </div>
+  <hr>
+  
+  <!-- Third Publication -->
+  <div class="d-flex mb-4">
+    <div style="flex: 0 0 300px; margin-right: 20px;">
+      <img src="/images/EIT.jpg" alt="Electromagnetically induced transparency in a multilayered spherical quantum dot with hydrogenic impurity" class="img-fluid" style="width: 300px; height: 200px; object-fit: cover; display: block;">
+    </div>
+    <div>
+      <h3 class="mt-0">
+        <strong>Electromagnetically induced transparency in a multilayered spherical quantum dot with hydrogenic impurity</strong>
+        <span>[<a href="https://www.sciencedirect.com/science/article/pii/S0925346718300430" target="_blank">PDF</a>]</span>
+      </h3>
+      <p style="line-height:1.6; font-size: 18px;">
+        V. Pavlović, M. Šušnjar, <strong>Katarina Petrović</strong>, Lj. Stevanović<br>
+        <em>Elsevier Optical Materials 2018</em>
+      </p>
+    </div>
+  </div>
+</div>
