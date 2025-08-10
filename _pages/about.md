@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey there! I'm Shrey, an undergraduate student at Duke University studying Computer Science broadly interested in generative models for biology. Currently, I'm focusing on on discrete diffusion models and classifier-guided sampling algorithms. I work with [Dr. Pranam Chatterjee](https://www.chatterjeelab.com/) at the University of Pennsylvania and [Latus Bio](https://www.latusbio.com/). Previously, I was a ML Engineer Intern at Qualcomm Technologies where I worked on LLM efficiency. I'm always open to new collaborations and opportunities, so please feel free to reach out!
+Hey there! I'm Shrey, an undergraduate student at Duke University studying Computer Science broadly interested in generative models for biology. Currently, I'm focusing on on discrete diffusion models and classifier-guided sampling algorithms under the mentorship of [Dr. Pranam Chatterjee](https://www.chatterjeelab.com/) at the University of Pennsylvania and AAV design at [Latus Bio](https://www.latusbio.com/). Previously, I was a ML Engineer Intern at [Qualcomm Technologies](https://www.qualcomm.com) where I worked on LLM efficiency.
+
+Please feel free to reach out -- I'm always open to new collaborations and opportunities!
 
 
 
