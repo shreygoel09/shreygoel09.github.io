@@ -25,7 +25,7 @@ author:
   avatar           : "pfp.png"
   name             : "Shrey Goel"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Duke University undergrad focusing on generative models for biology"
   location         : "Durham, NC"
   employer         : "Duke University"
   uri              : # URL
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : #"" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
