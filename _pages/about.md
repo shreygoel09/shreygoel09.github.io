@@ -14,6 +14,7 @@ Please feel free to reach out -- I'm always open to new collaborations and oppor
 
 Recent News
 ======
+- **May 2025**: I am excited to start my summer internship at Qualcomm Technologies within the AI Research - Quantization Software Team! Looking forward to living in sunny San Diego ☀️
 - **April 2025**: I will be at ICLR in Sinagpore 🇸🇬 to present at the GEM and LMRL workshops -- excited to see everyone there!
 - **Feb 2025**: [FusOn-pLM](https://www.nature.com/articles/s41467-025-56745-6) was published in Nature Communications! Congrats to my amazing PhD mentor [Sophie Vincoff](https://scholar.google.com/citations?user=bYVaaCwAAAAJ&hl=en)!
 - **Jan 2025**: Some of my initial bioinformatics work in coordination with Gameto and the Church Lab at Harvard was published in [EMBO Reports](https://www.embopress.org/doi/full/10.1038/s44319-025-00371-2)!
