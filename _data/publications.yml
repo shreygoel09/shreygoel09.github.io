@@ -6,7 +6,7 @@ main:
     conference: Fourteenth International Conference on Learning Representations – DeLTa & ReALM–GEN Workshops
     pdf: https://openreview.net/forum?id=94KB26ww3D
     code: https://huggingface.co/ChatterjeeLab/MadSBM
-    poster: ./assets/img/madsbm_poster.png
+    poster: ./assets/img/madsbm_poster.pdf
     image: ./assets/img/madsbm.gif
 
   - title: "Token-Level Guided Discrete Diffusion for Membrane Protein Design"
@@ -15,8 +15,8 @@ main:
     conference: Thirty-Ninth Annual Conference on Neural Information Processing Systems – AI4Science Workshop
     pdf: https://arxiv.org/abs/2410.16735
     code: https://huggingface.co/ChatterjeeLab/MemDLM
-    slides: ./assets/img/memdlm_slides.png
-    poster: ./assets/img/memdlm_poster.png
+    slides: ./assets/img/memdlm_slides.pdf
+    poster: ./assets/img/memdlm_poster.pdf
     image: ./assets/img/memdlm.png
     notes: Oral
 
