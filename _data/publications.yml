@@ -1,22 +1,26 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Minimal-Action Discrete Schrödinger Bridge Matching for Peptide Sequence Design"
+    authors: Shrey Goel, Peregrine M. Schray, Yinuo Zhang, Sophia Vincoff, Huong T. Kratochvil, Pranam Chatterjee* (*Corresponding author)
+    conference_short: NeurIPS (AI4S Oral)
+    conference: Fourteenth International Conference on Learning Representations – DeLTa & ReALM–GEN Workshops
+    pdf: https://openreview.net/forum?id=94KB26ww3D
+    code: https://huggingface.co/ChatterjeeLab/MadSBM
+    image: ./assets/img/madsbm.gif
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Token-Level Guided Discrete Diffusion for Membrane Protein Design"
+    authors: Shrey Goel, Peregrine M. Schray, Yinuo Zhang, Sophia Vincoff, Huong T. Kratochvil, Pranam Chatterjee* (*Corresponding author)
+    conference_short: NeurIPS (AI4S Oral)
+    conference: Thirty-Ninth Annual Conference on Neural Information Processing Systems – AI4Science Workshop
+    pdf: https://arxiv.org/abs/2410.16735
+    code: https://huggingface.co/ChatterjeeLab/MemDLM
+    image: ./assets/img/memdlm.png
+    notes: Oral
+
+  - title: "FusOn-pLM: a fusion oncoprotein-specific language model via adjusted rate masking"
+    authors: Sophie Vincoff, <strong>Shrey Goel</strong>, Kseniia Kholina, Rishab Pulugurta, Pranay Vure, Pranam Chatterjee* (*Corresponding author)
+    conference_short: Nature Comms
+    conference: Nature Communications
+    pdf: https://www.nature.com/articles/s41467-025-56745-6
+    code: https://huggingface.co/ChatterjeeLab/FusOn-pLM
+    image: ./assets/img/fusonplm.png
