@@ -18,7 +18,7 @@ main:
     slides: ./assets/img/memdlm_slides.pdf
     poster: ./assets/img/memdlm_poster.pdf
     image: ./assets/img/memdlm.png
-    notes: Oral
+    notes: Oral Presentation
 
   - title: "FusOn-pLM: a fusion oncoprotein-specific language model via adjusted rate masking"
     authors: Sophie Vincoff, <strong>Shrey Goel</strong>, Kseniia Kholina, Rishab Pulugurta, Pranay Vure, Pranam Chatterjee* (*Corresponding author)
