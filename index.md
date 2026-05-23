@@ -4,12 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi! I’m a rising senior at Duke University studying computer science. I conduct research in the Chatterjee and Coley Labs at the intersection of generative modeling and biomolecular design.  
 
-## Research Interests
+I’m especially interested in building fundamental generative modeling techniques motivated by challenges in scientific discovery, rather than restricting myself to specific formulations. My work has spanned [discrete diffusion guidance](https://arxiv.org/abs/2410.16735), [theoretical Schrodinger bridge frameworks](https://openreview.net/forum?id=94KB26ww3D) to generate peptide sequences and model cell-state perturbations, and geometric techniques for macrocycle design. Earlier, I worked on [representation learning](https://www.nature.com/articles/s41467-025-56745-6) and [bioinformatics](https://link.springer.com/article/10.1038/s44319-025-00371-2).  
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+In the past, I had the wonderful opportunity to intern at [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) and build [Latus Bio’s](https://www.latusbio.com/) ML-based AAV design pipeline.  
+
+If any of these topics excite you, feel free to reach out via email!
+
 
 ## News
 
