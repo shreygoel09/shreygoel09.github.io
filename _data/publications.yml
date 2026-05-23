@@ -1,7 +1,7 @@
 main:
 
   - title: "Minimal-Action Discrete Schrödinger Bridge Matching for Peptide Sequence Design"
-    authors: Shrey Goel, Peregrine M. Schray, Yinuo Zhang, Sophia Vincoff, Huong T. Kratochvil, Pranam Chatterjee* (*Corresponding author)
+    authors: <strong><u>Shrey Goel</u></strong>, Peregrine M. Schray, Yinuo Zhang, Sophia Vincoff, Huong T. Kratochvil, Pranam Chatterjee* (*Corresponding author)
     conference_short: ICLR 2026 Workshops
     conference: Fourteenth International Conference on Learning Representations – DeLTa & ReALM–GEN Workshops
     pdf: https://openreview.net/forum?id=94KB26ww3D
@@ -10,7 +10,7 @@ main:
     image: ./assets/img/madsbm.gif
 
   - title: "Token-Level Guided Discrete Diffusion for Membrane Protein Design"
-    authors: Shrey Goel, Peregrine M. Schray, Yinuo Zhang, Sophia Vincoff, Huong T. Kratochvil, Pranam Chatterjee* (*Corresponding author)
+    authors: <strong><u>Shrey Goel</u></strong>, Peregrine M. Schray, Yinuo Zhang, Sophia Vincoff, Huong T. Kratochvil, Pranam Chatterjee* (*Corresponding author)
     conference_short: NeurIPS 2025 (AI4S Oral)
     conference: Thirty-Ninth Annual Conference on Neural Information Processing Systems – AI4Science Workshop
     pdf: https://arxiv.org/abs/2410.16735
@@ -21,7 +21,7 @@ main:
     notes: Oral Presentation
 
   - title: "FusOn-pLM: a fusion oncoprotein-specific language model via adjusted rate masking"
-    authors: Sophie Vincoff, <strong>Shrey Goel</strong>, Kseniia Kholina, Rishab Pulugurta, Pranay Vure, Pranam Chatterjee* (*Corresponding author)
+    authors: Sophie Vincoff, <strong><u>Shrey Goel</u></strong>, Kseniia Kholina, Rishab Pulugurta, Pranay Vure, Pranam Chatterjee* (*Corresponding author)
     conference_short: Nature Comms
     conference: Nature Communications
     pdf: https://www.nature.com/articles/s41467-025-56745-6
