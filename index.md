@@ -15,10 +15,9 @@ If any of these topics excite you, feel free to reach out via email!
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Dec. 2025]** I presented [MemDLM](https://arxiv.org/abs/2410.16735) as an Oral @ NeurIPS 2025 in San Diego ☀️
+- **[Feb. 2025]** [FusOn-pLM](https://www.nature.com/articles/s41467-025-56745-6) was published in Nature Communications – congrats [Sophie](https://www.linkedin.com/in/sophia-vincoff-185192146/)!
+- **[Jan. 2025]** Some of my early bioinformatics work was published in [EMBO Reports](https://link.springer.com/article/10.1038/s44319-025-00371-2).
 
 {% include_relative _includes/publications.md %}
 
