@@ -14,8 +14,8 @@ If any of these topics excite you, feel free to reach out via email!
 
 
 ## News
-
-- **[Dec. 2025]** I presented [MemDLM](https://arxiv.org/abs/2410.16735) as an Oral @ NeurIPS 2025 in San Diego ☀️
+- **[April 2026]** I had a wonderful time presenting [MadSBM](https://openreview.net/forum?id=94KB26ww3D) at various ICLR 2026 workshops in Rio De Janeiro 🇧🇷
+- **[Dec. 2025]** I presented [MemDLM](https://arxiv.org/abs/2410.16735) as an Oral at the 2025 NeurIPS AI4Science Workshop in San Diego ☀️
 - **[Feb. 2025]** [FusOn-pLM](https://www.nature.com/articles/s41467-025-56745-6) was published in Nature Communications – congrats [Sophie](https://www.linkedin.com/in/sophia-vincoff-185192146/)!
 - **[Jan. 2025]** Some of my early bioinformatics work was published in [EMBO Reports](https://link.springer.com/article/10.1038/s44319-025-00371-2).
 
