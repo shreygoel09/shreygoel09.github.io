@@ -1,7 +1,7 @@
 main:
 
   - title: "Minimal-Action Discrete Schrödinger Bridge Matching for Peptide Sequence Design"
-    authors: <strong><u>Shrey Goel</u></strong>, Peregrine M. Schray, Yinuo Zhang, Sophia Vincoff, Huong T. Kratochvil, Pranam Chatterjee
+    authors: <strong><u>Shrey Goel</u></strong>, Pranam Chatterjee
     conference_short: ICLR 2026 Workshops
     conference: Fourteenth International Conference on Learning Representations – DeLTa & ReALM–GEN Workshops
     pdf: https://openreview.net/forum?id=94KB26ww3D
